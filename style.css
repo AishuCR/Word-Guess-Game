@@ -1,0 +1,51 @@
+body {
+	position: relative;
+    background-color: #282828;
+    width:60%;
+    margin-left:20%;
+    margin-right:20%;
+    color:#33FF33;
+    border:burlywood solid thin;
+}
+
+#title {
+	text-align: center;
+    width:100%;
+    height:200px;
+}
+
+#instruction, #alerts {
+	text-align: center;
+	font-size: 12px;
+}
+
+#main-content {
+	width: 100%;
+    border:solid thin #33FF33;
+}
+
+.panel {
+    background-color: #282828;
+}
+
+#word-display {
+	text-align: center;
+	font-size: 32px;
+}
+
+#general-display {
+	text-align: center;
+	font-size: 16px;
+}
+#hintimage{
+    height:100px;
+    width:100px;
+    border:solid thin #33FF33;
+   
+}
+#hint{
+    height:50px;
+    background-color: #33FF33;
+    color:white;
+    font-size: 36px;
+}
